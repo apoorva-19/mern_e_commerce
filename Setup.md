@@ -46,6 +46,7 @@ MERN_E-COMMERCE
 |___helpers
     |___ dbErrorHandler.js
 |___models
+    |___ category.js
     |___ user.js
 |___routes
     |___ auth.js
