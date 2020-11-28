@@ -40,18 +40,24 @@ MERN_E-COMMERCE
 |___.gitignore
 |___Setup.md
 |___package.json
-|___controllers
+|___controllers/
     |___ auth.js
-    |___ user.js
-|___helpers
-    |___ dbErrorHandler.js
-|___models
     |___ category.js
+    |___ products.js
     |___ user.js
-|___routes
+|___helpers/
+    |___ dbErrorHandler.js
+|___ images/
+|___models/
+    |___ category.js
+    |___ products.js
+    |___ user.js
+|___routes/
     |___ auth.js
+    |___ category.js
+    |___ products.js
     |___ user.js
-|___validators
+|___validators/
     |___ index.js
-|___node_modules
+|___node_modules/
 ```
