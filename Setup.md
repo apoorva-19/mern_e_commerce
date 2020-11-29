@@ -40,6 +40,7 @@ MERN_E-COMMERCE
 |___.gitignore
 |___Setup.md
 |___package.json
+|___app.js
 |___controllers/
     |___ auth.js
     |___ category.js
