@@ -38,7 +38,7 @@ router.get("/products", list);
 
 router.get("/products/related/:productId", listRelated);
 
-router.post("/products/categories", listCategories);
+router.get("/products/categories", listCategories);
 
 router.post("/products/by/search", listBySearch);
 
